@@ -1,5 +1,3 @@
-<img src="https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/291049642_5379630325458132_343035051026082468_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oXnfI-LhftgAX_DWmNA&_nc_ht=scontent.fdac27-1.fna&oh=00_AT_5TY5f7P88J-gCHz-JVn9o21u_fiQ26wYhrI3p4lIYPA&oe=62C0F1F4" height="250" width="500">
-
 # Hi there 👋, I am Mohammad Sumon
 ## Web Developer
 
