@@ -27,7 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sumon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-sumon&show_icons=true)  
 
 ## :chart_with_upwards_trend: Current Stats
 
