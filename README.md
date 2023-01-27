@@ -22,9 +22,6 @@
 </p><br/>
 
 
-![Profile views](https://gpvc.arturio.dev/mohammad-sumon)   
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sumon)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -35,3 +32,4 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-sumon&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
+![Profile views](https://gpvc.arturio.dev/mohammad-sumon)   
