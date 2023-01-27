@@ -1,10 +1,12 @@
 ![I am a Junior Front-end developer. ](https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/github_cover.jpeg)
 
-# Hi there 👋, I am Mohammad Sumon
-## Web Developer
+## :mailbox: Reach me out
 
+<br />
 
-I am a Front End Web Developer. I have a passion for learning and sharing my knowledge with publicly as possible. 
+[<p align="center"><img height="75" src="[(https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/Linkedin.png)">](https://www.linkedin.com/in/md-sumon-/)[<img height="75" src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/Facebook.png">](https://www.facebook.com/sumon0204/)[<img height="75" src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/Twitter.png"> </p>](https://twitter.com/sumon3011)
+
+<br />
 
 Skills:  HTML / CSS / JS / REACT
 
