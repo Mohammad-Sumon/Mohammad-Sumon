@@ -8,9 +8,19 @@
 
 <br />
 
-Skills:  HTML / CSS / JS / REACT
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/HTML.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/css.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/JavaScript.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/react.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/tailwind.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/Bootsrap.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/node.png"/>
+<img src="https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/express.png"/>
+</p><br/>
 
-- 🌱 I’m currently learning JavaScript & React. 
 
 ![Profile views](https://gpvc.arturio.dev/mohammad-sumon) 
 
