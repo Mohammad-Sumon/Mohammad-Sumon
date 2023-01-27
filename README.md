@@ -1,3 +1,5 @@
+![I am a Junior Front-end developer. ](https://github.com/mohammad-sumon/mohammad-sumon/blob/main/icons/github_cover.jpeg)
+
 # Hi there 👋, I am Mohammad Sumon
 ## Web Developer
 
