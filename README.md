@@ -10,9 +10,13 @@
 
 
 <strong>Expertise</strong> : HTML5 | CSS3 | JavaScript | ES6 | React | Bootstrap | React Bootstrap | Tailwind | Daisy UI
+<br />
 <strong>Comfortable</strong> : Firebase | Node JS | Express JS | MongoDB 
+<br />
 <strong>Familiar</strong> : Material UI | Flowbite | TypeScript | Next JS | Redux | Stripe
+<br />
 <strong>Tools</strong> : Visual Studio Code | Netlify | Figma | Vercel
+<br />
 
 ## :computer: Technologies that I know
 <br>
